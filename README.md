@@ -45,22 +45,6 @@ The goal is to understand how market sentiment impacts:
 
 ---
 
-## Key Insights
-
-- Trader performance differs between Fear and Greed sentiment days.
-- Traders tend to change trade frequency and position sizing based on sentiment.
-- Risk-taking behavior (leverage and trade size) increases during certain sentiment regimes.
-- Behavioral segments (frequent vs infrequent, high vs low risk) respond differently to sentiment.
-
----
-
-## Strategy Recommendations
-
-- During Fear days, reduce leverage and position size for high-risk traders.
-- During Greed days, selectively increase exposure for historically consistent performers.
-- Avoid increasing trade frequency during Extreme Fear due to higher volatility risk.
-
----
 
 ## Setup
 

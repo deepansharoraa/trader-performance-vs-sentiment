@@ -20,30 +20,7 @@ The goal is to understand how market sentiment impacts:
    - Includes: Account, Execution Price, Size USD, Side, Timestamp, Closed PnL, Fees, etc.
    - Used to analyze trader behavior and performance
 
----
 
-## Methodology
-
-1. Data cleaning and validation
-   - Checked for missing values and duplicates
-   - Converted timestamps to datetime format
-
-2. Data alignment
-   - Aggregated trader data to daily level
-   - Merged with daily Fear/Greed sentiment
-
-3. Feature engineering
-   - Daily PnL per trader
-   - Number of trades per day
-   - Average trade size
-   - Long/short ratio
-   - Leverage and risk proxies
-
-4. Comparative analysis
-   - Compared performance and behavior across Fear vs Greed days
-   - Analyzed behavioral changes under different sentiment regimes
-
----
 
 
 ## Setup
